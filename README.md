@@ -4,3 +4,9 @@ This repository was made to collaborate on the Data Science Project for the Cour
 ```
 
 The data set used is taken from cdc.gov.
+
+# Dependencies
+You can install dependencies using:
+```
+pip install -r requirements.txt
+```
